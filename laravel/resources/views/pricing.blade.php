@@ -28,7 +28,7 @@
         <div class="col-lg-3 col-md-6">
           <div class="box">
             <h3>Company Profile</h3>
-            <h4><sup>Rp.</sup>10.000.000<span></span></h4>
+            <h4><sup>$</sup>1000<span></span></h4>
             <ul>
               <li>Hosting</li>
               <li>Domain</li>
@@ -37,7 +37,13 @@
               <li class="na">Lifetime Support</li>
             </ul>
             <div class="btn-wrap">
-              <a href="#" class="btn-buy">Buy Now</a>
+              <!--<a href="#" class="btn-buy">Buy Now</a>-->
+              <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank">
+  <input type="hidden" name="cmd" value="_s-xclick" />
+  <input type="hidden" name="hosted_button_id" value="VJB7CQG2JWDR2" />
+  <input type="hidden" name="currency_code" value="USD" />
+  <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" title="PayPal - Cara yang lebih aman dan mudah untuk membayar secara daring!" alt="Tambahkan ke Troli" />
+</form>
             </div>
           </div>
         </div>
@@ -45,7 +51,7 @@
         <div class="col-lg-3 col-md-6 mt-4 mt-md-0">
           <div class="box featured">
             <h3>Information System</h3>
-            <h4><sup>Rp.</sup>15.000.000<span></span></h4>
+            <h4><sup>$</sup>1300<span></span></h4>
             <ul>
               <li>Hosting </li>
               <li>Domain</li>
@@ -54,7 +60,13 @@
               <li class="na">Lifetime Support</li>
             </ul>
             <div class="btn-wrap">
-              <a href="#" class="btn-buy">Buy Now</a>
+              <!--<a href="#" class="btn-buy"></a>-->
+              <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank">
+  <input type="hidden" name="cmd" value="_s-xclick" />
+  <input type="hidden" name="hosted_button_id" value="SBNCSSBKMMZ4Y" />
+  <input type="hidden" name="currency_code" value="USD" />
+  <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" title="PayPal - Cara yang lebih aman dan mudah untuk membayar secara daring!" alt="Tambahkan ke Troli" />
+</form>
             </div>
           </div>
         </div>
@@ -62,7 +74,7 @@
         <div class="col-lg-3 col-md-6 mt-4 mt-lg-0">
           <div class="box">
             <h3>Mobile Application</h3>
-            <h4><sup>Rp.</sup>20.000.000<span></span></h4>
+            <h4><sup>$</sup>1500<span></span></h4>
             <ul>
               <li>Hosting</li>
               <li>Domain</li>
@@ -71,7 +83,13 @@
               <li>Lifetime Support</li>
             </ul>
             <div class="btn-wrap">
-              <a href="#" class="btn-buy">Buy Now</a>
+              <!--<a href="#" class="btn-buy">Buy Now</a>-->
+              <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank">
+  <input type="hidden" name="cmd" value="_s-xclick" />
+  <input type="hidden" name="hosted_button_id" value="G5KWZQEDNCW7Y" />
+  <input type="hidden" name="currency_code" value="USD" />
+  <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" title="PayPal - Cara yang lebih aman dan mudah untuk membayar secara daring!" alt="Tambahkan ke Troli" />
+</form>
             </div>
           </div>
         </div>
@@ -80,7 +98,7 @@
           <div class="box">
             <span class="advanced">Advanced</span>
             <h3>Dashboard Management</h3>
-            <h4><sup>Rp.</sup>27.500.000<span></span></h4>
+            <h4><sup>$</sup>2000<span></span></h4>
             <ul>
               <li>Hosting & Domain</li>
               <li>Web Apps Included</li>
@@ -89,7 +107,13 @@
               <li>Lifetime Support</li>
             </ul>
             <div class="btn-wrap">
-              <a href="#" class="btn-buy">Buy Now</a>
+              <!--<a href="#" class="btn-buy">Buy Now</a>-->
+              <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank">
+  <input type="hidden" name="cmd" value="_s-xclick" />
+  <input type="hidden" name="hosted_button_id" value="484LCJ997LQUC" />
+  <input type="hidden" name="currency_code" value="USD" />
+  <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" title="PayPal - Cara yang lebih aman dan mudah untuk membayar secara daring!" alt="Tambahkan ke Troli" />
+</form>
             </div>
           </div>
         </div>

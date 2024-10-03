@@ -38,10 +38,8 @@ class QuoteController extends Controller
         $quote->quote = $request->input('quote');
         $quote->time = date_create()->format('Y-m-d H:i:s');
         $quote->save();
-        //echo 'hello';
-        // echo '<a href = "/insert">Click Here</a> to go back.';
-        echo '<div class="sent-message">Your message has been sent. Thank you!</div>';
-        //Redirect::to('http://heera.it');
+        return redirect('https://tendydeveloper.com/quote');
+        
     }
 
     /**

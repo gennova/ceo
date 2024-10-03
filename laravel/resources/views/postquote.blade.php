@@ -30,7 +30,7 @@
         <div class="row mt-5 justify-content-center" data-aos="fade-up">
           <div id="contact" class="contact">
           <div class="col-lg-10">
-            <form action="{{ url('quote/post/save')}}" method="post" role="form" class="php-email-form">
+            <form action="{{ url('quote/post/save')}}" method="post" role="form" class="">
                 @csrf
               <div class="row">
                 <div class="col-md-6 form-group">
@@ -48,8 +48,6 @@
               </div>
               <div class="my-3">
                 <div class="loading">Loading</div>
-                <div class="error-message"></div>
-                <div class="sent-message">Your message has been sent. Thank you!</div>
               </div>
               <div class="text-center"><button type="submit">Send Message</button></div>
             </form>
@@ -58,14 +56,6 @@
         </div>
             </article>
         
-
-          <div class="blog-pagination">
-            <ul class="justify-content-center">
-              <li class="active"><a href="#">1</a></li>
-              <li><a href="#">2</a></li>
-              <li><a href="#">3</a></li>
-            </ul>
-          </div>
 
         </div><!-- End blog entries list -->
 

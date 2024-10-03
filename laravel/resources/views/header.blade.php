@@ -61,6 +61,7 @@
                   <li><a href="#">Tendy CV</a></li>
                   <li><a href="{{ url('/quote') }}">Quote</a></li>
                   <li><a href="#">Download</a></li>
+                  <li><a href="{{ url('/advisor') }}">Advisor</a></li>
                 </ul>
               </li>
             </ul>

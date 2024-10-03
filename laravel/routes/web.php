@@ -40,6 +40,10 @@ Route::get('/porto', function () {
     return view('porto');
 });
 
+Route::get('/advisor', function () {
+    return view('advisor');
+});
+
 Route::get('/blog', function () {
     return view('
     blog');
