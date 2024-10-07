@@ -53,6 +53,10 @@ Route::get('/contact', function () {
     return view('contact');
 });
 
+Route::get('/cv', function () {
+   return redirect('https://tendydeveloper.com/assets/cvlatest.pdf');
+});
+
 Route::get('/pricing', function () {
     return view('pricing');
 });
